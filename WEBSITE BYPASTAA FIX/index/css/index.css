@@ -1,0 +1,175 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: "Poppins", sans-serif;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5 {
+    font-family: "Poppins", sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+p {
+    padding: 0;
+    margin: 0;
+}
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    width: 100%;
+}
+
+.d-flex {
+    display: flex;
+}
+
+.f-wrap {
+    flex-wrap: wrap;
+}
+
+.img-responsive {
+    width: 100%;
+}
+
+.jc-spacebetween {
+    justify-content: space-between;
+}
+
+.ai-center {
+    align-items: center;
+}
+
+.spacersection {
+    padding: 2% 0;
+}
+
+.spacercontent {
+    margin-bottom: 20px;
+}
+
+.bigtitle {
+    font-size: 3em;
+}
+
+.bigbtn {
+    padding: 20px 40px;
+    background: #2e1d03;
+    color: bisque;
+    display: inline-block;
+    text-decoration: none;
+    letter-spacing: 1px;
+}
+
+.header .nav {
+    margin-top: 0px;
+}
+
+.header .nav-brand h1 a {
+    text-decoration: none;
+    color: black;
+}
+
+.header .nav-menu ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+}
+
+.header .nav-menu ul li a {
+    display: block;
+    padding: 10px;
+    text-decoration: none;
+    color: black;
+}
+
+.header .nav-menu ul li a:hover {
+    font-weight: bold;
+}
+
+/* Button styling for navigation */
+.nav-button {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #2e1d03; /* Primary color for button */
+    color: bisque !important; /* White text */
+    border-radius: 5px; /* Rounded corners */
+    text-decoration: none; /* Remove underline */
+    transition: background-color 0.3s ease; /* Smooth hover effect */
+}
+
+.nav-button:hover {
+    font-weight: 400 !important;
+    background-color: #1d1302; /* Darker shade for hover */
+    color: bisque !important;
+}
+
+
+.hero-desc {
+    width: 40%;
+}
+
+.hero-desc p {
+    font-size: 14px;
+    line-height: 180%;
+}
+
+.hero-image {
+    width: 55%;
+}
+
+.category-item {
+    height: 400px;
+    overflow: hidden;
+    position: relative;
+    z-index: 1;
+}
+
+.category-item .overlay {
+    opacity: 0;
+    z-index: 5;
+    position: absolute;
+    padding: 20px;
+    height: 100%;
+    width: 95%;
+    color: white;
+    background-color: rgba(126, 118, 91, 0.8078431373);
+    transition: cubic-bezier(0.075, 0.82, 0.165, 1) 3s;
+}
+
+.category-item .overlay .btn-outline {
+    text-decoration: none;
+    padding: 10px;
+    background: #494536;
+    display: inline-block;
+    border: 2px solid white;
+    color: white;
+    letter-spacing: 2px;
+}
+
+.category-item:hover .overlay {
+    opacity: 1;
+}
+
+.category-item img {
+    filter: blur(0px);
+    transition: cubic-bezier(0.215, 0.61, 0.355, 1) 3s;
+}
+
+.category-item:hover img {
+    filter: blur(2px);
+}
+
+.footer {
+    text-align: center;
+    padding: 20px;
+    background: #2e1d03;
+    color: white;
+    margin-top: 50px;
+}

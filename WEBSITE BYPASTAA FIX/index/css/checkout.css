@@ -1,0 +1,187 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: "Poppins", sans-serif;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5 {
+    font-family: "Poppins", sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+h3{
+    font-size: 30px;
+}
+
+p {
+    padding: 0;
+    margin: 0px;
+    font-size: 20px;
+    word-wrap: break-word; 
+    overflow-wrap: break-word;
+    
+}
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    width: 100%;
+}
+
+.d-flex {
+    display: flex;
+}
+
+.f-wrap {
+    flex-wrap: wrap;
+}
+
+.img-responsive {
+    width: 100%;
+}
+
+.jc-spacebetween {
+    justify-content: space-between;
+}
+
+.ai-center {
+    align-items: center;
+}
+
+.spacersection {
+    padding: 2% 0;
+}
+
+.spacercontent {
+    margin-bottom: 20px;
+}
+
+.bigtitle {
+    font-size: 4em;
+}
+
+.bigtitle-h2 {
+    font-size: 4em;
+    text-align: center;
+}
+
+.bigbtn {
+    padding: 20px 40px;
+    background: #2e1d03;
+    color: bisque;
+    display: inline-block;
+    border-radius: 10px;
+    text-decoration: none;
+    letter-spacing: 1px;
+}
+
+.header .nav {
+    margin-top: 0px;
+}
+
+.header .nav-brand h1 a {
+    text-decoration: none;
+    color: black;
+}
+
+.header .nav-menu ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+}
+
+.header .nav-menu ul li a {
+    display: block;
+    padding: 10px;
+    text-decoration: none;
+    color: black;
+}
+
+.header .nav-menu ul li a:hover {
+    font-weight: bold;
+}
+
+img {
+    width: 200px;
+}
+
+
+/* TABEL */
+table {
+    width: 100%;
+    border-collapse: collapse; 
+    margin: 20px 0; 
+    font-size: 1rem; 
+    text-align: center; 
+    
+}
+
+th, td {
+    padding: 12px; 
+    border: 1px solid #ddd; 
+}
+
+th {
+    background-color: #2e1d03; 
+    font-weight: bold; 
+    color: #ffffff; 
+}
+
+td {
+    color: #000000; 
+}
+
+/* KOLOM */
+.prduk {
+    width: 40%; 
+}
+
+.hrga {
+    width: 20%; 
+}
+
+.jmlh {
+    width: 15%; 
+}
+
+.subttl {
+    width: 25%; 
+}
+
+td, th {
+    text-align: center; 
+}
+
+td.subttl, th.subttl {
+    color: #ffffff; 
+}
+
+/* tombol konnfir */
+button {
+    padding: 12px 20px;
+    background-color: #2e1d03;
+    color: #ffffff;
+    border: none;
+    cursor: pointer;
+    font-size: 1rem;
+    letter-spacing: 1px;
+}
+
+button:hover {
+    background-color: #1a1001;
+}
+
+
+.footer {
+    text-align: center;
+    padding: 20px;
+    background: #2e1d03;
+    color: white;
+    margin-top: 50px;
+}

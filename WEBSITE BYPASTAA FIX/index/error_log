@@ -1,0 +1,231 @@
+[05-Dec-2024 12:50:39 UTC] PHP Warning:  pg_connect(): Unable to connect to PostgreSQL server: could not connect to server: Connection refused
+	Is the server running on host &quot;localhost&quot; (::1) and accepting
+	TCP/IP connections on port 5432?
+could not connect to server: Connection refused
+	Is the server running on host &quot;localhost&quot; (127.0.0.1) and accepting
+	TCP/IP connections on port 5432? in /home/sxwvszbx/public_html/config.php on line 7
+[05-Dec-2024 12:50:39 UTC] PHP Warning:  pg_last_error(): No PostgreSQL link opened yet in /home/sxwvszbx/public_html/config.php on line 10
+[05-Dec-2024 14:16:17 UTC] PHP Warning:  pg_connect(): Unable to connect to PostgreSQL server: could not connect to server: Connection refused
+	Is the server running on host &quot;localhost&quot; (::1) and accepting
+	TCP/IP connections on port 5432?
+could not connect to server: Connection refused
+	Is the server running on host &quot;localhost&quot; (127.0.0.1) and accepting
+	TCP/IP connections on port 5432? in /home/sxwvszbx/public_html/config.php on line 7
+[05-Dec-2024 14:16:17 UTC] PHP Warning:  pg_last_error(): No PostgreSQL link opened yet in /home/sxwvszbx/public_html/config.php on line 10
+[05-Dec-2024 14:17:26 UTC] PHP Warning:  pg_connect(): Unable to connect to PostgreSQL server: could not connect to server: Connection refused
+	Is the server running on host &quot;localhost&quot; (::1) and accepting
+	TCP/IP connections on port 5432?
+could not connect to server: Connection refused
+	Is the server running on host &quot;localhost&quot; (127.0.0.1) and accepting
+	TCP/IP connections on port 5432? in /home/sxwvszbx/public_html/config.php on line 7
+[05-Dec-2024 14:17:26 UTC] PHP Warning:  pg_last_error(): No PostgreSQL link opened yet in /home/sxwvszbx/public_html/config.php on line 10
+[05-Dec-2024 14:18:14 UTC] PHP Warning:  pg_connect(): Unable to connect to PostgreSQL server: could not connect to server: Connection refused
+	Is the server running on host &quot;localhost&quot; (::1) and accepting
+	TCP/IP connections on port 5432?
+could not connect to server: Connection refused
+	Is the server running on host &quot;localhost&quot; (127.0.0.1) and accepting
+	TCP/IP connections on port 5432? in /home/sxwvszbx/public_html/config.php on line 7
+[05-Dec-2024 14:18:14 UTC] PHP Warning:  pg_last_error(): No PostgreSQL link opened yet in /home/sxwvszbx/public_html/config.php on line 10
+[05-Dec-2024 14:33:32 UTC] PHP Warning:  pg_connect(): Unable to connect to PostgreSQL server: could not connect to server: Connection refused
+	Is the server running on host &quot;localhost&quot; (::1) and accepting
+	TCP/IP connections on port 5432?
+could not connect to server: Connection refused
+	Is the server running on host &quot;localhost&quot; (127.0.0.1) and accepting
+	TCP/IP connections on port 5432? in /home/sxwvszbx/public_html/config.php on line 7
+[05-Dec-2024 14:33:32 UTC] PHP Warning:  pg_last_error(): No PostgreSQL link opened yet in /home/sxwvszbx/public_html/config.php on line 10
+[05-Dec-2024 14:47:32 UTC] PHP Warning:  mysqli::__construct(): (HY000/1044): Access denied for user 'sxwvszbx_adminbypastaaest2020'@'localhost' to database 'sxwvszbx_websiteapsi' in /home/sxwvszbx/public_html/config.php on line 8
+[05-Dec-2024 14:56:19 UTC] PHP Warning:  pg_query_params() expects parameter 1 to be resource, object given in /home/sxwvszbx/public_html/checkout.php on line 28
+[05-Dec-2024 14:59:21 UTC] PHP Warning:  pg_query_params() expects parameter 1 to be resource, object given in /home/sxwvszbx/public_html/checkout.php on line 28
+[05-Dec-2024 15:25:28 UTC] PHP Warning:  pg_query() expects parameter 1 to be resource, object given in /home/sxwvszbx/public_html/penjual.php on line 5
+[05-Dec-2024 15:25:57 UTC] PHP Warning:  pg_query_params() expects parameter 1 to be resource, object given in /home/sxwvszbx/public_html/checkout.php on line 28
+[05-Dec-2024 16:24:23 UTC] PHP Warning:  pg_query_params() expects parameter 1 to be resource, object given in /home/sxwvszbx/public_html/checkout.php on line 28
+[05-Dec-2024 17:52:13 UTC] PHP Warning:  pg_query() expects parameter 1 to be resource, object given in /home/sxwvszbx/public_html/penjual.php on line 5
+[05-Dec-2024 17:54:53 UTC] PHP Notice:  Undefined index: customer_id in /home/sxwvszbx/public_html/keranjang.php on line 66
+[05-Dec-2024 17:54:53 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home/sxwvszbx/public_html/keranjang.php:73
+Stack trace:
+#0 {main}
+  thrown in /home/sxwvszbx/public_html/keranjang.php on line 73
+[05-Dec-2024 17:54:59 UTC] PHP Notice:  Undefined index: customer_id in /home/sxwvszbx/public_html/keranjang.php on line 66
+[05-Dec-2024 17:54:59 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home/sxwvszbx/public_html/keranjang.php:73
+Stack trace:
+#0 {main}
+  thrown in /home/sxwvszbx/public_html/keranjang.php on line 73
+[05-Dec-2024 17:55:04 UTC] PHP Notice:  Undefined index: customer_id in /home/sxwvszbx/public_html/keranjang.php on line 66
+[05-Dec-2024 17:55:04 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home/sxwvszbx/public_html/keranjang.php:73
+Stack trace:
+#0 {main}
+  thrown in /home/sxwvszbx/public_html/keranjang.php on line 73
+[05-Dec-2024 17:55:05 UTC] PHP Notice:  Undefined index: customer_id in /home/sxwvszbx/public_html/keranjang.php on line 66
+[05-Dec-2024 17:55:05 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home/sxwvszbx/public_html/keranjang.php:73
+Stack trace:
+#0 {main}
+  thrown in /home/sxwvszbx/public_html/keranjang.php on line 73
+[05-Dec-2024 17:55:08 UTC] PHP Notice:  Undefined index: customer_id in /home/sxwvszbx/public_html/keranjang.php on line 66
+[05-Dec-2024 17:55:08 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home/sxwvszbx/public_html/keranjang.php:73
+Stack trace:
+#0 {main}
+  thrown in /home/sxwvszbx/public_html/keranjang.php on line 73
+[05-Dec-2024 17:55:14 UTC] PHP Notice:  Undefined index: customer_id in /home/sxwvszbx/public_html/keranjang.php on line 66
+[05-Dec-2024 17:55:14 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home/sxwvszbx/public_html/keranjang.php:73
+Stack trace:
+#0 {main}
+  thrown in /home/sxwvszbx/public_html/keranjang.php on line 73
+[05-Dec-2024 18:04:32 UTC] PHP Notice:  Undefined index: customer_id in /home/sxwvszbx/public_html/update_cart.php on line 9
+[05-Dec-2024 18:04:32 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home/sxwvszbx/public_html/update_cart.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/sxwvszbx/public_html/update_cart.php on line 19
+[05-Dec-2024 18:04:33 UTC] PHP Notice:  Undefined index: customer_id in /home/sxwvszbx/public_html/update_cart.php on line 9
+[05-Dec-2024 18:04:33 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home/sxwvszbx/public_html/update_cart.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/sxwvszbx/public_html/update_cart.php on line 19
+[05-Dec-2024 18:04:33 UTC] PHP Notice:  Undefined index: customer_id in /home/sxwvszbx/public_html/update_cart.php on line 9
+[05-Dec-2024 18:04:33 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home/sxwvszbx/public_html/update_cart.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/sxwvszbx/public_html/update_cart.php on line 19
+[05-Dec-2024 18:04:33 UTC] PHP Notice:  Undefined index: customer_id in /home/sxwvszbx/public_html/update_cart.php on line 9
+[05-Dec-2024 18:04:33 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home/sxwvszbx/public_html/update_cart.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/sxwvszbx/public_html/update_cart.php on line 19
+[05-Dec-2024 18:04:34 UTC] PHP Notice:  Undefined index: customer_id in /home/sxwvszbx/public_html/update_cart.php on line 9
+[05-Dec-2024 18:04:34 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home/sxwvszbx/public_html/update_cart.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/sxwvszbx/public_html/update_cart.php on line 19
+[05-Dec-2024 18:04:34 UTC] PHP Notice:  Undefined index: customer_id in /home/sxwvszbx/public_html/update_cart.php on line 9
+[05-Dec-2024 18:04:34 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home/sxwvszbx/public_html/update_cart.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/sxwvszbx/public_html/update_cart.php on line 19
+[05-Dec-2024 18:04:34 UTC] PHP Notice:  Undefined index: customer_id in /home/sxwvszbx/public_html/update_cart.php on line 9
+[05-Dec-2024 18:04:34 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home/sxwvszbx/public_html/update_cart.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/sxwvszbx/public_html/update_cart.php on line 19
+[05-Dec-2024 18:04:57 UTC] PHP Notice:  Undefined index: customer_id in /home/sxwvszbx/public_html/update_cart.php on line 9
+[05-Dec-2024 18:04:57 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home/sxwvszbx/public_html/update_cart.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/sxwvszbx/public_html/update_cart.php on line 19
+[05-Dec-2024 18:04:58 UTC] PHP Notice:  Undefined index: customer_id in /home/sxwvszbx/public_html/update_cart.php on line 9
+[05-Dec-2024 18:04:58 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home/sxwvszbx/public_html/update_cart.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/sxwvszbx/public_html/update_cart.php on line 19
+[05-Dec-2024 18:04:58 UTC] PHP Notice:  Undefined index: customer_id in /home/sxwvszbx/public_html/update_cart.php on line 9
+[05-Dec-2024 18:04:58 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home/sxwvszbx/public_html/update_cart.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/sxwvszbx/public_html/update_cart.php on line 19
+[05-Dec-2024 18:04:59 UTC] PHP Notice:  Undefined index: customer_id in /home/sxwvszbx/public_html/update_cart.php on line 9
+[05-Dec-2024 18:04:59 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home/sxwvszbx/public_html/update_cart.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/sxwvszbx/public_html/update_cart.php on line 19
+[05-Dec-2024 18:04:59 UTC] PHP Notice:  Undefined index: customer_id in /home/sxwvszbx/public_html/update_cart.php on line 9
+[05-Dec-2024 18:04:59 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home/sxwvszbx/public_html/update_cart.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/sxwvszbx/public_html/update_cart.php on line 19
+[05-Dec-2024 18:04:59 UTC] PHP Notice:  Undefined index: customer_id in /home/sxwvszbx/public_html/update_cart.php on line 9
+[05-Dec-2024 18:04:59 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home/sxwvszbx/public_html/update_cart.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/sxwvszbx/public_html/update_cart.php on line 19
+[05-Dec-2024 18:04:59 UTC] PHP Notice:  Undefined index: customer_id in /home/sxwvszbx/public_html/update_cart.php on line 9
+[05-Dec-2024 18:04:59 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home/sxwvszbx/public_html/update_cart.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/sxwvszbx/public_html/update_cart.php on line 19
+[05-Dec-2024 18:05:00 UTC] PHP Notice:  Undefined index: customer_id in /home/sxwvszbx/public_html/update_cart.php on line 9
+[05-Dec-2024 18:05:00 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home/sxwvszbx/public_html/update_cart.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/sxwvszbx/public_html/update_cart.php on line 19
+[05-Dec-2024 18:05:00 UTC] PHP Notice:  Undefined index: customer_id in /home/sxwvszbx/public_html/update_cart.php on line 9
+[05-Dec-2024 18:05:00 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home/sxwvszbx/public_html/update_cart.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/sxwvszbx/public_html/update_cart.php on line 19
+[05-Dec-2024 18:05:00 UTC] PHP Notice:  Undefined index: customer_id in /home/sxwvszbx/public_html/update_cart.php on line 9
+[05-Dec-2024 18:05:00 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home/sxwvszbx/public_html/update_cart.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/sxwvszbx/public_html/update_cart.php on line 19
+[05-Dec-2024 18:05:00 UTC] PHP Notice:  Undefined index: customer_id in /home/sxwvszbx/public_html/update_cart.php on line 9
+[05-Dec-2024 18:05:00 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home/sxwvszbx/public_html/update_cart.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/sxwvszbx/public_html/update_cart.php on line 19
+[05-Dec-2024 18:05:09 UTC] PHP Fatal error:  Uncaught Error: Call to a member function execute() on bool in /home/sxwvszbx/public_html/add_to_cart.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/sxwvszbx/public_html/add_to_cart.php on line 31
+[05-Dec-2024 18:05:11 UTC] PHP Fatal error:  Uncaught Error: Call to a member function execute() on bool in /home/sxwvszbx/public_html/add_to_cart.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/sxwvszbx/public_html/add_to_cart.php on line 31
+[05-Dec-2024 18:05:12 UTC] PHP Fatal error:  Uncaught Error: Call to a member function execute() on bool in /home/sxwvszbx/public_html/add_to_cart.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/sxwvszbx/public_html/add_to_cart.php on line 31
+[05-Dec-2024 18:05:13 UTC] PHP Fatal error:  Uncaught Error: Call to a member function execute() on bool in /home/sxwvszbx/public_html/add_to_cart.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/sxwvszbx/public_html/add_to_cart.php on line 31
+[05-Dec-2024 18:05:20 UTC] PHP Fatal error:  Uncaught Error: Call to a member function execute() on bool in /home/sxwvszbx/public_html/add_to_cart.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/sxwvszbx/public_html/add_to_cart.php on line 31
+[05-Dec-2024 18:05:21 UTC] PHP Fatal error:  Uncaught Error: Call to a member function execute() on bool in /home/sxwvszbx/public_html/add_to_cart.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/sxwvszbx/public_html/add_to_cart.php on line 31
+[05-Dec-2024 18:05:21 UTC] PHP Fatal error:  Uncaught Error: Call to a member function execute() on bool in /home/sxwvszbx/public_html/add_to_cart.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/sxwvszbx/public_html/add_to_cart.php on line 31
+[05-Dec-2024 18:05:21 UTC] PHP Fatal error:  Uncaught Error: Call to a member function execute() on bool in /home/sxwvszbx/public_html/add_to_cart.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/sxwvszbx/public_html/add_to_cart.php on line 31
+[05-Dec-2024 18:05:21 UTC] PHP Fatal error:  Uncaught Error: Call to a member function execute() on bool in /home/sxwvszbx/public_html/add_to_cart.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/sxwvszbx/public_html/add_to_cart.php on line 31
+[05-Dec-2024 18:06:09 UTC] PHP Fatal error:  Uncaught Error: Call to a member function execute() on bool in /home/sxwvszbx/public_html/add_to_cart.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/sxwvszbx/public_html/add_to_cart.php on line 31
+[05-Dec-2024 18:06:10 UTC] PHP Fatal error:  Uncaught Error: Call to a member function execute() on bool in /home/sxwvszbx/public_html/add_to_cart.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/sxwvszbx/public_html/add_to_cart.php on line 31
+[05-Dec-2024 18:06:10 UTC] PHP Fatal error:  Uncaught Error: Call to a member function execute() on bool in /home/sxwvszbx/public_html/add_to_cart.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/sxwvszbx/public_html/add_to_cart.php on line 31
+[05-Dec-2024 18:06:10 UTC] PHP Fatal error:  Uncaught Error: Call to a member function execute() on bool in /home/sxwvszbx/public_html/add_to_cart.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/sxwvszbx/public_html/add_to_cart.php on line 31
+[05-Dec-2024 18:06:10 UTC] PHP Fatal error:  Uncaught Error: Call to a member function execute() on bool in /home/sxwvszbx/public_html/add_to_cart.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/sxwvszbx/public_html/add_to_cart.php on line 31
+[05-Dec-2024 18:06:11 UTC] PHP Fatal error:  Uncaught Error: Call to a member function execute() on bool in /home/sxwvszbx/public_html/add_to_cart.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/sxwvszbx/public_html/add_to_cart.php on line 31
+[05-Dec-2024 18:41:27 UTC] PHP Fatal error:  Uncaught Error: Call to a member function execute() on bool in /home/sxwvszbx/public_html/add_to_cart.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/sxwvszbx/public_html/add_to_cart.php on line 31
+[05-Dec-2024 18:41:28 UTC] PHP Fatal error:  Uncaught Error: Call to a member function execute() on bool in /home/sxwvszbx/public_html/add_to_cart.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/sxwvszbx/public_html/add_to_cart.php on line 31
+[05-Dec-2024 19:04:48 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/sxwvszbx/public_html/config.php on line 8

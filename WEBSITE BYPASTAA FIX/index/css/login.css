@@ -1,0 +1,135 @@
+html, body {
+    margin: 0;
+    padding: 0;
+    font-family: "Poppins", sans-serif;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5 {
+    font-family: "Poppins", sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+p {
+    padding: 0;
+    margin: 0;
+}
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    width: 100%;
+}
+
+.d-flex {
+    display: flex;
+}
+
+.f-wrap {
+    flex-wrap: wrap;
+}
+
+.img-responsive {
+    width: 100%;
+}
+
+.jc-spacebetween {
+    justify-content: space-between;
+}
+
+.ai-center {
+    align-items: center;
+}
+
+.spacersection {
+    padding: 2% 0;
+}
+
+.spacercontent {
+    margin-bottom: 20px;
+}
+
+.bigtitle {
+    font-size: 3em;
+}
+
+.bigbtn {
+    padding: 20px 180px;
+    background: #2e1d03;
+    color: bisque;
+    display: inline-block;
+    text-decoration: none;
+    letter-spacing: 1px;
+    border-radius: 10px;
+}
+
+form {
+    background: white;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+    max-width: 600px;
+    margin: 0 auto;
+    margin-top: 30px;
+}
+
+form label {
+    display: block;
+    font-weight: bold;
+    margin-bottom: 5px;
+    font-size: 16px;
+}
+
+form input,
+form textarea {
+    width: 94%;
+    padding: 10px;
+    margin-bottom: 20px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    font-size: 14px;
+    font-family: "Poppins", sans-serif;
+}
+
+form button {
+    width: 100%;
+    background-color: #2e1d03;
+    color: bisque;
+    border: none;
+    padding: 15px;
+    font-size: 16px;
+    font-weight: bold;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+form button:hover {
+    background-color: #1d1302;
+}
+
+.header .nav-brand h1 a {
+    text-decoration: none;
+    color: black;
+}
+
+.header .nav {
+    margin-top: 0px;
+}
+
+.header .nav-brand h1 a {
+    text-decoration: none;
+    color: black;
+}
+
+.footer {
+    text-align: center;
+    margin-top: 4.62rem;
+    padding: 20px;
+    background: #2e1d03;
+    color: white;
+}

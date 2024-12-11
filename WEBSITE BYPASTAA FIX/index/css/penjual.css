@@ -1,0 +1,155 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: "Poppins", sans-serif;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5 {
+    font-family: "Poppins", sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+p {
+    padding: 0;
+    margin: 0;
+}
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    width: 100%;
+}
+
+.d-flex {
+    display: flex;
+}
+
+.f-wrap {
+    flex-wrap: wrap;
+}
+
+.img-responsive {
+    width: 100%;
+}
+
+.jc-spacebetween {
+    justify-content: space-between;
+}
+
+.ai-center {
+    align-items: center;
+}
+
+.spacersection {
+    padding: 2% 0;
+}
+
+.spacercontent {
+    margin-bottom: 20px;
+}
+
+.bigtitle {
+    font-size: 3em;
+}
+
+.bigbtn {
+    padding: 20px 40px;
+    background: #2e1d03;
+    color: bisque;
+    display: inline-block;
+    text-decoration: none;
+    letter-spacing: 1px;
+}
+
+.header .nav {
+    margin-top: 0px;
+}
+
+.header .nav-brand h1 a {
+    text-decoration: none;
+    color: black;
+}
+
+.header .nav-menu ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+}
+
+.header .nav-menu ul li a {
+    display: block;
+    padding: 10px;
+    text-decoration: none;
+    color: black;
+}
+
+.header .nav-menu ul li a:hover {
+    font-weight: bold;
+}
+
+.seller table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 20px 0;
+    background: white;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+}
+
+.seller table th,
+.seller table td {
+    padding: 15px;
+    text-align: center;
+    border: 1px solid #ddd;
+}
+
+.seller table th {
+    background-color: #f4f4f4;
+    font-weight: bold;
+}
+
+.seller table td {
+    vertical-align: middle;
+}
+
+.seller ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    text-align: left;
+}
+
+.seller ul li {
+    margin: 5px 0;
+}
+
+.footer {
+    text-align: center;
+    padding: 20px;
+    background: #2e1d03;
+    color: white;
+    margin-top: 50px;
+}
+
+.nav-button {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #2e1d03; /* Primary color for button */
+    color: bisque !important; /* White text */
+    border-radius: 5px; /* Rounded corners */
+    text-decoration: none; /* Remove underline */
+    transition: background-color 0.3s ease; /* Smooth hover effect */
+}
+
+.nav-button:hover {
+    font-weight: 400 !important;
+    background-color: #1d1302; /* Darker shade for hover */
+    color: bisque !important;
+}
+
